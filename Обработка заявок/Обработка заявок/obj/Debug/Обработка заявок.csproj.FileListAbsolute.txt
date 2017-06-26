@@ -1,0 +1,10 @@
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\bin\Debug\Обработка заявок.exe.config
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\bin\Debug\Обработка заявок.exe
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\bin\Debug\Обработка заявок.pdb
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка заявок.csprojResolveAssemblyReference.cache
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка_заявок.Form1.resources
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка_заявок.Properties.Resources.resources
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка заявок.csproj.GenerateResource.Cache
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка заявок.exe
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка заявок.pdb
+c:\users\айзиля\documents\visual studio 2013\Projects\Обработка заявок\Обработка заявок\obj\Debug\Обработка_заявок.Авторизация.resources
